@@ -16,4 +16,4 @@ URL: http://www.metoffice.gov.uk/climate/uk/summaries/datasets#Yearorder
 
 2. Build a visualisation component for this dataset using HTML5, CSS, AngularJS or JS (feel free to decide what JS libraries you use). How will you present this data to the user? What kind of plots/charts will you use? How will the data grids look like? Use your imagination and creativity.
 3. Take Q2 forward and find 3 interesting facts from the above dataset and present it to us.   
-4. Deploy the entire solution to one of the IaaS providers and send us the URL. Please host your code on GitHub or upload it either on Google Drive or DropBox or send it as an attachment to careers@kisanhub.com or using the careers for at https://kisanhub.com/careers/
+4. Deploy the entire solution to one of the IaaS providers and send us the URL. Please host your code on GitHub or upload it either on Google Drive or DropBox or send it as an attachment to careers@kisanhub.com or using the careers form at https://kisanhub.com/careers/
